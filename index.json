@@ -1,0 +1,24 @@
+{
+  "name": "Ampion's Repository",
+  "author": "Ampion",
+  "packages": {
+    "com.ampion.furytojp": {
+      "versions": {
+        "0.0.1": {
+          "name": "com.ampion.arktoon",
+          "displayName": "VRCF Japanese Translator",
+          "version": "0.0.1",
+          "unity": "2022.3",
+          "description": "Translate to japanese VRCfury.",
+          "author": {
+            "name": "Ampion"
+          },
+          "url": "https://github.com/arika-tune/VRC-Tools/releases/download/furytojp-0.0.1/com.ampion.furytojp.zip",
+          "vpmDependencies": {
+            "com.vrcfury.vrcfury": "^1.1434.0"
+          }
+        }
+      }
+    }
+  }
+}
